@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mritunjay Kumar Singh</h1>
-<h3 align="center">A passionate Data Analyst from India</h3>
+<h3 align="center">A Passionate Data Analyst from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mritunjay10003&label=Profile%20views&color=0e75b6&style=flat" alt="mritunjay10003" /> </p>
 
