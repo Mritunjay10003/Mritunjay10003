@@ -1,13 +1,44 @@
-<h1 align="center">Hi 👋, I'm Mritunjay Kumar Singh</h1>
-<h3 align="center">A Passionate Data Analyst from India</h3>
+
+# 👋 Hi there, I'm Mritunjay Singh
+
+🎯 **Aspiring Data Analyst | Storyteller with Data | Explorer of Patterns**
+
+---
+
+## 🚀 About Me
+
+- 📌 **Data tells a story — I turn it into actionable insights.**  
+  Final-year BTech student passionate about converting raw data into powerful decisions using Python, SQL, Power BI, and more.
+
+- 📊 **Numbers excite me, patterns guide me.**  
+  I love exploring datasets, cleaning them, visualizing trends, and deriving value through thoughtful analysis.
+
+- 💻 **Hands-on with data pipelines:**  
+  From **ETL processes** to **ML models**, I work across the data lifecycle to ensure clean, insight-rich outputs.
+
+- 🧠 **Driven by curiosity, powered by logic.**  
+  Always learning new tools, refining statistical methods, and storytelling through dashboards and visualizations.
+
+- 🤝 **Collaboration meets communication.**  
+  With strong problem-solving and critical thinking skills, I thrive in environments that value teamwork and data-driven strategies.
+
+---
+
+## 🛠️ Skills & Tools
+
+- **Languages:** Python, SQL, MATLAB  
+- **Libraries:** Pandas, NumPy, Seaborn, Matplotlib, Plotly  
+- **Visualization:** Power BI, Excel  
+- **Others:** Git, GitHub, Jupyter Notebook, ETL, EDA, Statistics, ML (Supervised & Unsupervised)
+
+---
+
+⭐ *“In God we trust. All others must bring data.” – W. Edwards Deming*
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mritunjay10003&label=Profile%20views&color=0e75b6&style=flat" alt="mritunjay10003" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mritunjay10003" alt="mritunjay10003" /></a> </p>
 
-- 🌱 I’m currently learning **Data Analysis and Visualization Tools**
-
-- 📫 How to reach me **mritunjaysingh.as@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
