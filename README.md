@@ -51,12 +51,18 @@
 
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="http://www.linkedin.com/in/mritunjaysingh10003" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="http://www.linkedin.com/in/mritunjaysingh10003" height="30" width="40" /></a>
-</p>
-<a href="mailto:mritunjaysingh.as@gmail.com">
-  <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=Gmail&logoColor=white"/>
-</a>
+<div align="center" style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap; align-items: center;">
+
+  <a href="http://www.linkedin.com/in/mritunjaysingh10003" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+  </a>
+
+  <a href="mailto:mritunjaysingh.as@gmail.com">
+    <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=Gmail&logoColor=white" alt="Email" />
+  </a>
+
+</div>
+
 
 
 <h3 align="left">Languages and Tools:</h3>
