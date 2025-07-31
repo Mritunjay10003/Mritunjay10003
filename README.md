@@ -1,4 +1,3 @@
-
 # 👋 Hi there, I'm Mritunjay Singh
 
 🎯 **Aspiring Data Analyst | Storyteller with Data | Explorer of Patterns**
